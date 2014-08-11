@@ -1,8 +1,8 @@
-package fr.sldt.assetsManager;
+package net.sldt_team.assetsManager;
 
-import fr.sldt.assetsManager.logging.ConsoleHandlerFormator;
-import fr.sldt.assetsManager.logging.DeveloperConsoleHandler;
-import fr.sldt.assetsManager.logging.OutputStreamToLogger;
+import net.sldt_team.assetsManager.logging.ConsoleHandlerFormator;
+import net.sldt_team.assetsManager.logging.DeveloperConsoleHandler;
+import net.sldt_team.assetsManager.logging.OutputStreamToLogger;
 
 import javax.swing.*;
 import java.io.File;

@@ -1,7 +1,7 @@
-package fr.sldt.assetsManager.utils;
+package net.sldt_team.assetsManager.utils;
 
-import fr.sldt.assetsManager.Display;
-import fr.sldt.assetsManager.Main;
+import net.sldt_team.assetsManager.Display;
+import net.sldt_team.assetsManager.Main;
 
 import javax.imageio.ImageIO;
 import javax.swing.*;

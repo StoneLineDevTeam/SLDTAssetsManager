@@ -1,7 +1,7 @@
-package fr.sldt.assetsManager;
+package net.sldt_team.assetsManager;
 
-import fr.sldt.assetsManager.compiler.ZipFileCompiler;
-import fr.sldt.assetsManager.utils.*;
+import net.sldt_team.assetsManager.compiler.ZipFileCompiler;
+import net.sldt_team.assetsManager.utils.*;
 
 import javax.swing.*;
 import javax.swing.filechooser.FileNameExtensionFilter;

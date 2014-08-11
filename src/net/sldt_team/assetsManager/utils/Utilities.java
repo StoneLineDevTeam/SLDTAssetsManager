@@ -1,4 +1,4 @@
-package fr.sldt.assetsManager.utils;
+package net.sldt_team.assetsManager.utils;
 
 import java.io.File;
 import java.io.IOException;

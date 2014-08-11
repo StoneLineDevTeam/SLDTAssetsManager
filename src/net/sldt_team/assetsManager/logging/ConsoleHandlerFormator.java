@@ -1,4 +1,4 @@
-package fr.sldt.assetsManager.logging;
+package net.sldt_team.assetsManager.logging;
 
 import java.text.SimpleDateFormat;
 import java.util.Date;

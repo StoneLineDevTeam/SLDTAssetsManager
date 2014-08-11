@@ -1,4 +1,4 @@
-package fr.sldt.assetsManager;
+package net.sldt_team.assetsManager;
 
 public class Constants {
     public static final String GAF_COMPILER_VERSION = "1.0";

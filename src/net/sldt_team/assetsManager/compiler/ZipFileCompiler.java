@@ -1,7 +1,7 @@
-package fr.sldt.assetsManager.compiler;
+package net.sldt_team.assetsManager.compiler;
 
-import fr.sldt.assetsManager.Main;
-import fr.sldt.assetsManager.utils.Utilities;
+import net.sldt_team.assetsManager.Main;
+import net.sldt_team.assetsManager.utils.Utilities;
 
 import javax.imageio.ImageIO;
 import java.awt.image.BufferedImage;

@@ -1,7 +1,6 @@
-package fr.sldt.assetsManager.logging;
+package net.sldt_team.assetsManager.logging;
 
 import com.sun.istack.internal.NotNull;
-import fr.sldt.assetsManager.Main;
 
 import java.io.ByteArrayOutputStream;
 import java.io.IOException;

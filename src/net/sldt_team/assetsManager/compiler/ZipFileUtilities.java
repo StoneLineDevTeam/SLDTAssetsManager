@@ -1,6 +1,6 @@
-package fr.sldt.assetsManager.compiler;
+package net.sldt_team.assetsManager.compiler;
 
-import fr.sldt.assetsManager.Main;
+import net.sldt_team.assetsManager.Main;
 
 import java.io.FileInputStream;
 import java.io.FileNotFoundException;

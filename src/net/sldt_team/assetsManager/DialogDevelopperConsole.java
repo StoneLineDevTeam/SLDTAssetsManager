@@ -1,4 +1,4 @@
-package fr.sldt.assetsManager;
+package net.sldt_team.assetsManager;
 
 import javax.swing.*;
 import javax.swing.text.*;

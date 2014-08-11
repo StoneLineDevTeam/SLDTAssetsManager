@@ -1,7 +1,7 @@
-package fr.sldt.assetsManager;
+package net.sldt_team.assetsManager;
 
-import fr.sldt.assetsManager.utils.ProjectManager;
-import fr.sldt.assetsManager.utils.Utilities;
+import net.sldt_team.assetsManager.utils.ProjectManager;
+import net.sldt_team.assetsManager.utils.Utilities;
 
 import javax.swing.*;
 import java.awt.*;

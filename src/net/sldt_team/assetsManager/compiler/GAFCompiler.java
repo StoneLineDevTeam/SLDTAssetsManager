@@ -1,4 +1,4 @@
-package fr.sldt.assetsManager.compiler;
+package net.sldt_team.assetsManager.compiler;
 
 import java.io.File;
 import java.io.FileInputStream;
