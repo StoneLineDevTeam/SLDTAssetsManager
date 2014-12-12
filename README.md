@@ -22,3 +22,8 @@ Riquierements :
 - Windows OR Mac OR Linux System.
 Optional :
 - You can add the weblaf jar in the root folder of this application, so it can looks better.
+
+
+NOTICE :
+This project has been disbanned, you should no longer use this program, please instead use the Software Development Kit of SLDT's GameEngine.
+The new SDK provides a set of tool (Engine's doc, AssetsManager new version, a version of F2IBuilder for font generation, AnimationMaker but very buggy, and an Engine's downloader tool !
